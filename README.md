@@ -1,4 +1,4 @@
-# Quotes
+# Wiki
 
 This frontend project is to use the skills learned at FreeCodeCamp.
 
@@ -29,7 +29,7 @@ git clone https://gitlab.com/jacebenson/fcc-wiki.git
 
 Install the required dependencies
 ```
-cd fcc-quotes
+cd fcc-wiki
 npm install
 ```
 
