@@ -1,0 +1,22 @@
+{
+  "name": "fcc05wiki",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/browser-sync start --server 'public' --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/jacebenson/fcc-wiki.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/jacebenson/fcc-wiki/issues"
+  },
+  "homepage": "https://gitlab.com/jacebenson/fcc-wiki#README",
+  "devDependencies": {
+    "browser-sync": "^2.23.6"
+  }
+}
