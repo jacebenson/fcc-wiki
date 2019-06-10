@@ -17,6 +17,6 @@
   },
   "homepage": "https://gitlab.com/jacebenson/fcc-wiki#README",
   "devDependencies": {
-    "browser-sync": "^2.23.6"
+    "browser-sync": "^2.26.7"
   }
 }
