@@ -4,19 +4,19 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "./node_modules/.bin/browser-sync start --server 'public' --watch"
+    "start": "light-server -s public/ -w 'public/**'"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@gitlab.com/jacebenson/fcc-wiki.git"
+    "url": "git+ssh://git@github.com/jacebenson/fcc-wiki.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://gitlab.com/jacebenson/fcc-wiki/issues"
+    "url": "https://github.com/jacebenson/fcc-wiki/issues"
   },
-  "homepage": "https://gitlab.com/jacebenson/fcc-wiki#README",
+  "homepage": "https://github.com/jacebenson/fcc-wiki#README",
   "devDependencies": {
-    "browser-sync": "^2.26.7"
+    "light-server": "^2.6.2"
   }
 }
